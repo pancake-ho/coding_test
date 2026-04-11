@@ -8,4 +8,4 @@ for i in range(1, N+1):
         answer = i
         break
 
-print(answer)
+print(answer)   
